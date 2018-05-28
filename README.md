@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hello, I'm y.suzuki.
+I'm Japanese student.
+
+regards.
